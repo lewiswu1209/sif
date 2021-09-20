@@ -4,9 +4,6 @@
 [submodule "auxiliary/Fast-Google-Dorks-Scan"]
 	path = auxiliary/Fast-Google-Dorks-Scan
 	url = https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan.git
-[submodule "auxiliary/GitHack"]
-	path = auxiliary/GitHack
-	url = https://github.com/BugScanTeam/GitHack.git
 [submodule "auxiliary/dirmap"]
 	path = auxiliary/dirmap
 	url = https://github.com/H4ckForJob/dirmap.git
@@ -34,3 +31,6 @@
 [submodule "payloads/php/b374k"]
 	path = payloads/php/b374k
 	url = https://github.com/b374k/b374k.git
+[submodule "auxiliary/GitHack"]
+	path = auxiliary/GitHack
+	url = https://github.com/lijiejie/GitHack.git
