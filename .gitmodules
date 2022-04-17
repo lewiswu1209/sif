@@ -37,3 +37,9 @@
 [submodule "post/linux/CVE-2021-4034"]
 	path = post/linux/CVE-2021-4034
 	url = https://github.com/ryaagard/CVE-2021-4034.git
+[submodule "exploit/log4j-scan"]
+	path = exploit/log4j-scan
+	url = https://github.com/fullhunt/log4j-scan
+[submodule "exploit/spring4shell-scan"]
+	path = exploit/spring4shell-scan
+	url = https://github.com/fullhunt/spring4shell-scan
