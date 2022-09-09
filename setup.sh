@@ -43,6 +43,7 @@ function setup_app() {
 	pip3 install -r /opt/sif/auxiliary/dirmap/requirement.txt
 	pip3 install -r /opt/sif/auxiliary/AngelSword/requirements.txt
 	pip2 install -r /opt/sif/exploit/tp5-getshell/requirements.txt
+	pip3 install httpx
 }
 
 function install_by_wget() {
