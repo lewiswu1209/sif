@@ -50,6 +50,7 @@ function install_by_wget() {
 	wget https://github.com/AntSwordProject/AntSword-Loader/releases/download/4.0.3/AntSword-Loader-v4.0.3-linux-x64.zip -O /tmp/antsword-loader.zip
 	unzip /tmp/antsword-loader.zip -d /opt/sif/auxiliary/
 	mv /opt/sif/auxiliary/AntSword* /opt/sif/auxiliary/AntSword
+	wget https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.11.4&type=Jar -O /opt/sif/auxiliary/burpsuite/burpsuite_pro_v2022.11.4.jar
 }
 
 banner
